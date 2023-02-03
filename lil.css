@@ -18,7 +18,7 @@ body{
 	}
 	header img{
 		border-radius: 260px;
-		width: 2333px;
+		width: 800px;
 		border: 30px solid whitesmoke;
 		margin: auto;
 		display: flex;
@@ -35,7 +35,7 @@ body{
 	li{
 		font-size: 150px;
 		color: white;
-		width: 1488px;
+		width: 800px;
 		padding: auto;
 		margin: auto;
 		text-align: center;
@@ -43,7 +43,7 @@ body{
 	}
 	main,h4,h3,ul,{
 		
-  		width: 1200px;
+  		width: 800px;
  	 	border: 30px solid green;
   		padding: 50px 100px 50px;
   		margin: 20px;
