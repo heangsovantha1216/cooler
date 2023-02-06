@@ -6,7 +6,11 @@ body{
 }
 	h1,h2{
 
+<<<<<<< Updated upstream
 		font-size: 80px;
+=======
+		font-size: 20px;
+>>>>>>> Stashed changes
 		color: #00008B;
 		font-family: Impact;
 
@@ -18,14 +22,18 @@ body{
 	}
 	header img{
 		border-radius: 260px;
-		width: 1000px;
+		width: 800px;
 		border: 30px solid whitesmoke;
 		margin: auto;
 		display: flex;
 
 	}
 	p{
+<<<<<<< Updated upstream
 		font-size: 80px;
+=======
+		font-size: 20px;
+>>>>>>> Stashed changes
 		color: blanchedalmond;
 		font-family: Impact;
 		text-align: center;
@@ -35,7 +43,7 @@ body{
 	li{
 		font-size: 80px;
 		color: white;
-		width: 1000px;
+		width: 800px;
 		padding: auto;
 		margin: auto;
 		text-align: center;
@@ -43,7 +51,7 @@ body{
 	}
 	main,h4,h3,ul,{
 		
-  		width: 1200px;
+  		width: 800px;
  	 	border: 30px solid green;
   		padding: 50px 100px 50px;
   		margin: 20px;
@@ -52,13 +60,21 @@ body{
 
 	}
 	h3{
+<<<<<<< Updated upstream
 		font-size: 80px;
+=======
+		font-size: 20px;
+>>>>>>> Stashed changes
 		color: black;
 		padding: auto;
 		text-align: center;
 	}
 	h4{
+<<<<<<< Updated upstream
 		font-size: 80px;
+=======
+		font-size: 20px;
+>>>>>>> Stashed changes
 		text-align: center;
 		padding: auto;
 	}
@@ -80,7 +96,7 @@ body{
 	}
 	main img{
 		order-radius: 260px;
-		width: 1000px;
+		width: 800px;
 		border: 30px solid whitesmoke;
 		margin: auto;
 		display: flex;
